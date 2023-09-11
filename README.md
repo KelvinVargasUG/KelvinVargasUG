@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Kelvin Vargas</h1><h3 align="center">Soy un apasionado desarrollador de frontend y backend en Ecuador</h3><h3 align="left">Conéctate conmigo:</h3><p align="left">
+<h1 align="center">Hola 👋, soy Kelvin Vargas</h1><h3 align="center">Soy un apasionado desarrollador de frontend y backend en Ecuador</h3><h3 
 </p><h3 align="left">
 
 
