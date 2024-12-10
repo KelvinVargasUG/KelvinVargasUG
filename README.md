@@ -63,8 +63,9 @@ Lenguajes y herramientas: </h3>
   </a>
 </p>
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinVargasUg&show_icons=true&theme=radical)
+-->
 <!--
 **KelvinVargasUG/KelvinVargasUG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
